@@ -1,0 +1,211 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.head{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(51, 50, 50);
+}
+.head1{
+    padding: 10px;
+    display: flex;
+    color: #fff;
+    font-size: 30px;
+    font-weight: 700;
+}
+.navbar a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 10px;
+    transition: 0.7s ease;
+}
+.navbar a:hover{
+    transform: scale(1.1);
+}
+.home{
+    background-color: navy;
+    margin: 0;
+    padding: 0;
+}
+.head2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    font-weight: 800;
+    font-size: 50px;
+}
+.par1{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+.btn1{
+    margin-left: 620px;
+    background-color: orange;
+    color: white;
+    height: 40px;
+    width: 100px;
+    margin-bottom: 20px;
+    transition: 0.7s ease;    
+}
+.btn1:hover{
+    transform: scale(1.1);
+}
+#menu{
+    background-color: lightgray;
+}
+.card1{
+    border: 5px solid #fff;
+    border-radius: 10px;
+    width: 500px;
+    margin-left: 420px;
+    margin-top: 20px;
+    transition: 0.7s ease;
+}
+.card1:hover{
+    transform: scale(1.1);
+}
+.head3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(5, 5, 5);
+    font-size: 30px;
+    font-weight: 700;
+}
+.head4{
+    text-align: center;
+    color: orangered;
+}
+.par2{
+    color: #333;
+    text-align: center;
+}
+.sp1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: orange;
+    font-weight: 700;
+    font-size: 30px;
+}
+.card2{
+    border: 5px solid #fff;
+    border-radius: 10px;
+    width: 500px;
+    margin-left: 420px;
+    margin-top: 20px;
+    transition: 0.7s ease;
+}
+.card2:hover{
+    transform: scale(1.1);
+}
+.head5{
+    text-align: center;
+    color: orangered;
+}
+.par3{
+    color: #333;
+    text-align: center;
+}
+.sp2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: orange;
+    font-weight: 700;
+    font-size: 30px;
+}
+.card3{
+    border: 5px solid #fff;
+    border-radius: 10px;
+    width: 500px;
+    margin-left: 420px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    transition: 0.7s ease;
+}
+.card3:hover{
+    transform: scale(1.1);
+}
+.head6{
+    text-align: center;
+    color: orangered;
+}
+.par4{
+    color: #333;
+    text-align: center;
+}
+.sp3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: orange;
+    font-weight: 700;
+    font-size: 30px;
+}
+.specialoffers{
+    background-color: lightgray;
+}
+.head7{
+    color: #333;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+}
+.par5{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    font-size: 20px;
+    font-weight: 600;
+}
+.btn2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 620px;
+    background-color: orange;
+    color: white;
+    height: 40px;
+    width: 100px;
+    margin-bottom: 20px;
+    transition: 0.7s ease;  
+}
+.btn2:hover{
+    transform: scale(1.1);
+}
+#contact{
+    margin-top: 100px;
+}
+.head8{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    font-weight: 600;
+}
+.par6{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    font-size: 20px;
+    font-weight: 500;
+}
+.par7{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    font-size: 20px;
+    font-weight: 500;
+    padding-top: 10px;
+}
